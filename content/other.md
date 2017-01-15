@@ -2,8 +2,9 @@ Title: Other
 Date: 1111-11-11 11:11
 Category: Misc
 Tags: 環境設定, 子模組, HTML文字語法
-Author: 40423226
+Author: 40439221
 
+<!-- PELICAN_END_SUMMARY -->
 <h2>使用環境設定</h2>
 <pre>
 git config --global http.proxy http://proxy.mde.tw:3128

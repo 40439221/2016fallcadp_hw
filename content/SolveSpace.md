@@ -2,8 +2,9 @@ Title: SolveSpace
 Date: 1111-02-22 22:22
 Category: Misc
 Tags: SolveSpace
-Author: 40423226
+Author: 40439221
 
+<!-- PELICAN_END_SUMMARY -->
 <h2><a href="http://solvespace.com/">SolveSpace</a></h2>
 <h2>SolveSpace 2D</h2>
 <iframe src="https://player.vimeo.com/video/192920828" width="640" height="428" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
